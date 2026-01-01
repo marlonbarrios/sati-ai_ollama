@@ -4,8 +4,8 @@
 
 *A contemplative companion for mindfulness, care, and ethical reflection*
 
+<img src="https://github.com/user-attachments/assets/a0d889a7-e318-42aa-b891-f004aa95d9e4" width="1200">
 
-<img width="1085" height="1021" alt="Screenshot 2026-01-01 at 12 48 18 PM" src="https://github.com/user-attachments/assets/a0d889a7-e318-42aa-b891-f004aa95d9e4" />
 
 ---
 
@@ -18,8 +18,8 @@ Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy
 
 This project is not designed for optimization, diagnosis, or authority. It is an invitation to slow down, attend carefully, and relate to experience with ethical awareness.
 
----
-<img width="1143" height="1149" alt="Screenshot 2026-01-01 at 5 23 40 PM" src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" />
+<img src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" width="1200">
+
 
 ## What You Need
 
@@ -32,8 +32,7 @@ Sati-AI requires **Ollama**, a lightweight system for running large language mod
 
 No cloud account or data sharing is required.
 
----
-<img width="1149" height="1132" alt="Screenshot 2026-01-01 at 5 10 28 PM" src="https://github.com/user-attachments/assets/6d0da45c-d6eb-4160-92f9-24a313fa62ec" />
+<img src="https://github.com/user-attachments/assets/6d0da45c-d6eb-4160-92f9-24a313fa62ec" width="1200">
 
 ## Install Ollama
 
