@@ -19,6 +19,7 @@ Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy
 This project is not designed for optimization, diagnosis, or authority. It is an invitation to slow down, attend carefully, and relate to experience with ethical awareness.
 
 ---
+<img width="1143" height="1149" alt="Screenshot 2026-01-01 at 5 23 40 PM" src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" />
 
 ## What You Need
 
@@ -63,6 +64,10 @@ Notes:
 - The first run will download the model (this may take a few minutes).
 - Subsequent runs start immediately.
 - All interactions happen **locally on your computer**.
+
+ or  go to this page
+
+  [https://ollama.com/marlonbarriossolano](https://ollama.com/marlonbarriossolano)
 
 ---
 
