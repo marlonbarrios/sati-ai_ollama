@@ -1,4 +1,4 @@
-# Sati-AI (Ollama)
+# Sati-AI (GPT-OSS Ollama) Version January 2025
 
 *A contemplative companion for mindfulness, care, and ethical reflection*
 
