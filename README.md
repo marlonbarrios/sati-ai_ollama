@@ -22,54 +22,113 @@ This project is not designed for optimization, diagnosis, or authority. It is an
 <img src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" width="1200">
 
 
-## What You Need
-
 Sati-AI requires **Ollama**, a lightweight system for running large language models entirely on your own machine.
-
-### Supported systems
-- macOS (Apple Silicon or Intel)
-- Windows
-- Linux
 
 No cloud account or data sharing is required.
 
+
 <img src="https://github.com/user-attachments/assets/6d0da45c-d6eb-4160-92f9-24a313fa62ec" width="1200">
 
-## Install Ollama
 
-### macOS / Windows
-1. Visit: https://ollama.com  
+# Using Sati-AI with Ollama (Clear Instructions)
+
+These instructions explain exactly how to install, download, and use Sati-AI with Ollama, including all important caveats.
+
+---
+
+## What you need
+
+- A computer running macOS, Windows, or Linux  
+- Ollama installed  
+  https://ollama.com
+
+Sati-AI runs entirely on your local machine.  
+No cloud account. No data sharing.
+
+---
+
+## Step 1 — Install Ollama
+
+1. Go to https://ollama.com  
 2. Download and install Ollama  
 3. Launch Ollama once (it runs quietly in the background)
 
-### Linux
-Follow the instructions at:  
-https://ollama.com/download
+To verify installation, open a terminal and run:
 
-After installation, verify that Ollama is working by opening a terminal and running:
+    ollama --version
 
-ollama –version
-
-If a version number appears, you’re ready.
+If you see a version number, Ollama is ready.
 
 ---
 
-## Run Sati-AI
+## Step 2 — Download Sati-AI (one-time step)
 
-Once Ollama is installed, start Sati-AI with a single command:
+You only need to do this once.
 
-ollama run marlonbarriossolano/sati-ai
+Open a terminal and run:
 
-Notes:
-- The first run will download the model (this may take a few minutes).
-- Subsequent runs start immediately.
-- All interactions happen **locally on your computer**.
+    ollama run marlonbarriossolano/sati-ai
 
- or  go to this page
+This will:
+- Download the Sati-AI model
+- Register it locally inside Ollama
+- Start a chat session (you can close it afterward)
 
-  [https://ollama.com/marlonbarriossolano](https://ollama.com/marlonbarriossolano)
+Important:  
+This step is required so Ollama knows the model exists on your computer.
 
 ---
+
+## Step 3 — Use Sati-AI in the Ollama chat interface
+
+After the first download:
+
+1. Open the Ollama app  
+2. Go to the chat interface  
+3. Click the model dropdown menu  
+4. Select Sati-AI (or marlonbarriossolano/sati-ai)  
+5. Start chatting in more than 25 languages.
+
+After this point, no terminal is required.
+
+---
+
+## Important caveats (please read)
+
+- The Ollama chat interface only shows models that are already installed  
+- Selecting a model in the dropdown does not download it  
+- The terminal command in Step 2 is required at least once  
+- After installation, Sati-AI behaves like any other local model  
+
+If Sati-AI does not appear in the dropdown:
+- Make sure Step 2 completed successfully  
+- Restart the Ollama app  
+- Check that Ollama is running  
+
+---
+
+
+## Privacy & ethics
+
+- Sati-AI runs locally  
+- No conversations are sent to the cloud  
+- No tracking or data extraction  
+
+### Sati-AI is:
+- Not a therapist or clinician  
+- Not a diagnostic or prescriptive system  
+- A companion, not an authority  
+
+---
+
+## In summary
+
+1. Install Ollama  
+2. Run one terminal command once to download Sati-AI  
+3. Use Sati-AI directly from the Ollama chat interface  
+
+That’s it.
+
 
 ## What Sati-AI Is
 
