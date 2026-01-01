@@ -59,6 +59,8 @@ To verify installation, open a terminal and run:
 
 If you see a version number, Ollama is ready.
 
+See it in model page: [https://ollama.com/marlonbarriossolano/sati-ai](https://ollama.com/marlonbarriossolano/sati-ai)
+
 ---
 
 ## Step 2 — Download Sati-AI (one-time step)
