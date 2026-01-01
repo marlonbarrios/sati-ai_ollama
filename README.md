@@ -1,8 +1,9 @@
-# sati-ai_ollama
-
-# Sati-AI
+# Sati-AI (Ollama)
 
 *A contemplative companion for mindfulness, care, and ethical reflection*
+
+Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
+
 
 <img src="https://github.com/user-attachments/assets/a0d889a7-e318-42aa-b891-f004aa95d9e4" width="1200">
 
