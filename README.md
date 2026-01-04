@@ -1,8 +1,8 @@
-# Sati-AI (GPT-OSS Ollama) Version January 2025
+# Sati-AI Versions January 2025
 
 *A contemplative companion for mindfulness, care, and ethical reflection*
 
-Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
+Sati-AI models run **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
 
 
 <img src="https://github.com/user-attachments/assets/a0d889a7-e318-42aa-b891-f004aa95d9e4" width="1200">
@@ -12,7 +12,7 @@ Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy
 
 ## Overview
 
-**Sati-AI (FROM gpt-oss)** is a gentle, trauma-sensitive Buddhist mentor and contemplative companion, created and conceived by interdisciplinary artist **Marlon Barrios Solano**.  
+**Sati-AI models** are a gentle, trauma-sensitive Buddhist mentor and contemplative companion, created and conceived by interdisciplinary artist **Marlon Barrios Solano**.  
 Current version: **December 2025**.
 
 Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
@@ -22,10 +22,11 @@ This project is not designed for optimization, diagnosis, or authority. It is an
 <img src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" width="1200">
 
 
-Sati-AI requires **Ollama**, a lightweight system for running large language models entirely on your own machine.
+Sati-AI models requires **Ollama**, a lightweight system for running large language models entirely on your own machine.
 
 No cloud account or data sharing is required.
 
+Important: these are experimental models; so use with care.
 
 <img src="https://github.com/user-attachments/assets/6d0da45c-d6eb-4160-92f9-24a313fa62ec" width="1200">
 
@@ -63,16 +64,18 @@ See it in model page: [https://ollama.com/marlonbarriossolano/sati-ai](https://o
 
 ---
 
-## Step 2 — Download Sati-AI (one-time step)
+## Step 2 — Download the model
 
 You only need to do this once.
 
-Open a terminal and run:
+Open a terminal and run the commmand iffered here
+
+https://ollama.com/marlonbarriossolano
 
     ollama run marlonbarriossolano/sati-ai
 
 This will:
-- Download the Sati-AI model
+- Download the selected  model
 - Register it locally inside Ollama
 - Start a chat session (you can close it afterward)
 
@@ -81,7 +84,7 @@ This step is required so Ollama knows the model exists on your computer.
 
 ---
 
-## Step 3 — Use Sati-AI in the Ollama chat interface
+## Step 3 — Use  any satio-ai model in the Ollama chat interface
 
 After the first download:
 
@@ -100,9 +103,9 @@ After this point, no terminal is required.
 - The Ollama chat interface only shows models that are already installed  
 - Selecting a model in the dropdown does not download it  
 - The terminal command in Step 2 is required at least once  
-- After installation, Sati-AI behaves like any other local model  
+- After installation, Sati-AI models behaves like any other local model  
 
-If Sati-AI does not appear in the dropdown:
+If Sati-AI model does not appear in the dropdown:
 - Make sure Step 2 completed successfully  
 - Restart the Ollama app  
 - Check that Ollama is running  
