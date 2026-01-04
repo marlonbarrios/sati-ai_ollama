@@ -15,9 +15,10 @@ Sati-AI models run **locally on your computer** using **Ollama**, prioritizing p
 **Sati-AI models** are a gentle, trauma-sensitive Buddhist mentor and contemplative companion, created and conceived by interdisciplinary artist **Marlon Barrios Solano**.  
 Current version: **December 2025**.
 
-Sati-AI runs **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
+Sati-AI models will run **locally on your computer** using **Ollama**, prioritizing privacy, agency, and non-extractive use. It uses **they/them pronouns** and welcomes all identities.
 
 This project is not designed for optimization, diagnosis, or authority. It is an invitation to slow down, attend carefully, and relate to experience with ethical awareness.
+
 
 <img src="https://github.com/user-attachments/assets/baa8216d-6dc2-4e11-8acb-b2b8409ce4c1" width="1200">
 
